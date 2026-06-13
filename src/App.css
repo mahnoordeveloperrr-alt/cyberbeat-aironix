@@ -220,7 +220,7 @@
         .reveal {
             position: absolute;
             inset: 0;
-            background: url("img/2.png") center center / 100% auto no-repeat;
+            background: url("/public/img/2.png") center center / 100% auto no-repeat;
             opacity: 0.55;
             mask-image: radial-gradient(circle 140px at var(--x, 50%) var(--y, 50%), white 0%, white 40%, transparent 100%);
             -webkit-mask-image: radial-gradient(circle 140px at var(--x, 50%) var(--y, 50%), white 0%, white 40%, transparent 100%);
@@ -245,7 +245,7 @@
             line-height: 0.78;
             letter-spacing: -8px;
             text-transform: uppercase;
-            background: url("img/2.png") center center / 100% auto no-repeat;
+            background: url("/public/img/2.png") center center / 100% auto no-repeat;
             -webkit-background-clip: text;
             background-clip: text;
             color: var(--black);
