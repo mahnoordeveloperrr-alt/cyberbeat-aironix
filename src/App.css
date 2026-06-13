@@ -210,7 +210,7 @@
         .robot-bg {
             position: absolute;
             inset: 0;
-            background: url("img/2.png") center center / 100% auto no-repeat;
+            background: url("/public/img/2.png") center center / 100% auto no-repeat;
             opacity: 0.08;
             pointer-events: none;
             z-index: 1;
